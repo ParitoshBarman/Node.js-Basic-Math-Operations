@@ -1,9 +1,7 @@
 github repo:   https://github.com/ParitoshBarman/Node.js-Basic-Math-Operations.git
 
 
-
-Think of whether commands can given in the terminal itself like node index.js sum 3 5...?, explore the command line arguments
-
+## Ans:-
 
 `index.js`
 ```
@@ -65,7 +63,7 @@ return a*b;
 module.exports = multiply;
 ```
 
-``division.js
+`division.js`
 
 ```
 function div(a,b){
